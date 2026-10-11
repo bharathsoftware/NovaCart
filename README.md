@@ -35,13 +35,6 @@ NovaCart is a frontend web development project built using React.js, JavaScript,
 
 Follow these steps to run the project on your local machine.
 
-### Prerequisites
-
-Install the following software:
-
-- Node.js
-- npm
-- Git
 
 ### Installation
 
