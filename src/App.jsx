@@ -819,19 +819,18 @@ if (showCheckout) {
                 <div className="panel-footer">
                   <div className="subtotal-row"><span>Subtotal</span><strong>{formatPrice(cartTotal)}</strong></div>
                   <p>Shipping and payment are not configured in this demo.</p>
-                  <button
-                    className="primary-button checkout-button"
-                    disabled={!cart.length}
-                   onClick={() => {
-                           setActivePanel("");
-                            setShowCheckout(true);
-                    }}
-                  >
-                    onClick={() => {
-  setActivePanel("");
-  setShowCheckout(true);
-}}
-                  </button>
+
+<button
+  className="primary-button checkout-button"
+  disabled={!cart.length}
+  onClick={() => {
+    setActivePanel("");
+    setShowCheckout(true);
+  }}
+>
+  Proceed to Checkout <ArrowRight size={18} />
+</button>
+
                 </div>
               </>
             ) : activePanel === "account" ? (
