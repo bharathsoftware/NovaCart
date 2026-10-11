@@ -4,7 +4,7 @@ NovaCart is a modern, responsive e-commerce frontend application designed to pro
 
 ## 🌐 Live Demo
 
-**Website:** https://nova-cart-blue.vercel.app/
+**Website:** https://nova-cart-sable.vercel.app/  
 
 ## 📌 Project Overview
 
@@ -141,7 +141,7 @@ Aspiring Software Engineer | Java Developer | Full-Stack Developer
 
 ## 🔗 Project Links
 
-- **Live Website:** https://nova-cart-blue.vercel.app/
+**Live Demo:** https://nova-cart-sable.vercel.app/ 
 - **GitHub Repository:** https://github.com/bharathsoftware/NovaCart
 
 ---
