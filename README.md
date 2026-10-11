@@ -135,7 +135,7 @@ Through this project, I practiced:
 
 ## 👨‍💻 Developer
 
-**Bharath Kumar Y**
+**Bharathkumar Y**
 
 Aspiring Software Engineer | Java Developer | Full-Stack Developer
 
@@ -144,6 +144,4 @@ Aspiring Software Engineer | Java Developer | Full-Stack Developer
 **Live Demo:** https://nova-cart-sable.vercel.app/ 
 - **GitHub Repository:** https://github.com/bharathsoftware/NovaCart
 
----
 
-⭐ If you find this project interesting, feel free to explore the repository!
