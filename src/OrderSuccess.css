@@ -1,0 +1,151 @@
+
+.success-page {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  background: linear-gradient(135deg, #f0fdf4, #f8fafc, #ecfdf5);
+  font-family: inherit;
+}
+
+.success-card {
+  width: 100%;
+  max-width: 540px;
+  padding: 48px 32px;
+  background: #ffffff;
+  border: 1px solid #dcfce7;
+  border-radius: 24px;
+  box-shadow: 0 20px 60px rgba(22, 101, 52, 0.10);
+  text-align: center;
+  animation: successAppear 0.5s ease;
+}
+
+.success-icon {
+  width: 112px;
+  height: 112px;
+  margin: 0 auto 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #16a34a;
+  background: #dcfce7;
+  border-radius: 50%;
+  animation: successPop 0.5s ease;
+}
+
+.success-label {
+  margin-bottom: 12px;
+  color: #16a34a;
+  font-size: 12px;
+  font-weight: 800;
+  letter-spacing: 2px;
+}
+
+.success-card h1 {
+  margin: 0 0 16px;
+  color: #0f172a;
+  font-size: clamp(26px, 5vw, 34px);
+  line-height: 1.25;
+}
+
+.success-message {
+  margin: 0 auto 28px;
+  max-width: 390px;
+  color: #64748b;
+  font-size: 15px;
+  line-height: 1.8;
+}
+
+.success-details {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 28px;
+  padding: 16px;
+  border-radius: 12px;
+  background: #f8fafc;
+  color: #475569;
+  font-size: 13px;
+}
+
+.success-home-button {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 16px 20px;
+  border: none;
+  border-radius: 12px;
+  background: #16a34a;
+  color: white;
+  font-size: 15px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background 0.2s ease, transform 0.2s ease;
+}
+
+.success-home-button:hover {
+  background: #15803d;
+  transform: translateY(-2px);
+}
+
+.success-footer {
+  margin: 24px 0 0;
+  color: #94a3b8;
+  font-size: 12px;
+}
+
+@keyframes successAppear {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes successPop {
+  0% {
+    transform: scale(0.7);
+    opacity: 0;
+  }
+
+  70% {
+    transform: scale(1.08);
+  }
+
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@media (max-width: 480px) {
+  .success-page {
+    padding: 16px;
+  }
+
+  .success-card {
+    padding: 36px 22px;
+    border-radius: 20px;
+  }
+
+  .success-icon {
+    width: 90px;
+    height: 90px;
+  }
+
+  .success-details {
+    line-height: 1.6;
+  }
+
+  .success-home-button {
+    padding: 14px 16px;
+  }
+}
