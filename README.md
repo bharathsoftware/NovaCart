@@ -1,26 +1,26 @@
-# 🛍️ NovaCart – E-Commerce Web Application
+#  NovaCart – E-Commerce Web Application
 
 NovaCart is a modern, responsive e-commerce frontend application designed to provide users with a smooth and attractive online shopping experience. It features product browsing, shopping cart functionality, and a checkout interface.
 
-## 🌐 Live Demo
+##  Live Demo
 
 **Website:** https://nova-cart-sable.vercel.app/  
 
-## 📌 Project Overview
+##  Project Overview
 
 NovaCart is a frontend web development project built using React.js, JavaScript, HTML, and CSS. The application focuses on creating a clean user interface, responsive layouts, and an easy-to-use shopping experience.
 
-## ✨ Features
+##  Features
 
-- 🏠 **Home Page** – Modern shopping homepage with a clean interface.
-- 🛒 **Product Browsing** – Browse products across different categories.
-- 🛍️ **Shopping Cart** – Add products to the cart and review selected items.
-- 💳 **Checkout Interface** – View order details and proceed through the checkout flow.
-- 📱 **Responsive Design** – Designed to work across desktop and mobile screen sizes.
-- 🎨 **Modern UI** – Attractive styling, product cards, and interactive elements.
-- 🔔 **User Notifications** – Feedback messages for user actions.
+-  **Home Page** – Modern shopping homepage with a clean interface.
+-  **Product Browsing** – Browse products across different categories.
+-  **Shopping Cart** – Add products to the cart and review selected items.
+-  **Checkout Interface** – View order details and proceed through the checkout flow.
+-  **Responsive Design** – Designed to work across desktop and mobile screen sizes.
+-  **Modern UI** – Attractive styling, product cards, and interactive elements.
+-  **User Notifications** – Feedback messages for user actions.
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **React.js** – Building reusable UI components.
 - **JavaScript (ES6+)** – Application logic and interactions.
@@ -31,7 +31,7 @@ NovaCart is a frontend web development project built using React.js, JavaScript,
 - **Vercel** – Deployment and hosting.
 - **Git & GitHub** – Version control and source code management.
 
-## 🚀 Getting Started
+##  Getting Started
 
 Follow these steps to run the project on your local machine.
 
@@ -84,7 +84,7 @@ To preview the production build locally, run:
 npm run preview
 ```
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 NovaCart/
@@ -103,7 +103,7 @@ NovaCart/
 
 *Note: The structure above is illustrative. Your actual project may contain additional files and folders.*
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I practiced:
 
@@ -116,7 +116,7 @@ Through this project, I practiced:
 - Deploying a web application using Vercel.
 - Managing source code with Git and GitHub.
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Backend integration using Java and Spring Boot.
 - User registration and login authentication.
@@ -126,13 +126,13 @@ Through this project, I practiced:
 - Order history and user profiles.
 - Admin dashboard for product management.
 
-## 👨‍💻 Developer
+##  Developer
 
 **Bharathkumar Y**
 
 Aspiring Software Engineer | Java Developer | Full-Stack Developer
 
-## 🔗 Project Links
+##  Project Links
 
 **Live Demo:** https://nova-cart-sable.vercel.app/ 
 - **GitHub Repository:** https://github.com/bharathsoftware/NovaCart
