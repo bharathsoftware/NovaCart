@@ -101,7 +101,6 @@ NovaCart/
 └── README.md
 ```
 
-*Note: The structure above is illustrative. Your actual project may contain additional files and folders.*
 
 ##  Learning Outcomes
 
@@ -116,15 +115,6 @@ Through this project, I practiced:
 - Deploying a web application using Vercel.
 - Managing source code with Git and GitHub.
 
-##  Future Enhancements
-
-- Backend integration using Java and Spring Boot.
-- User registration and login authentication.
-- Database integration for products and orders.
-- Online payment gateway integration.
-- Product search, sorting, and filtering.
-- Order history and user profiles.
-- Admin dashboard for product management.
 
 ##  Developer
 
